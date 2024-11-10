@@ -1,0 +1,5 @@
+tensorflow==2.18.0
+Flask==3.0.3
+opencv-python-headless==4.10.0.84
+pandas==2.2.3
+functions-framework==3.8.1
